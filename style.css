@@ -1,0 +1,27 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+body > header{
+    background-color: dodgerblue;
+}
+body > header > h1{
+    color: white;
+    margin: 0;
+}
+
+body > footer {
+    background-color: dodgerblue;
+    text-align: center;
+}
+
+body > footer > h2 {
+    color: white;
+    margin:0;
+}
+
+body {
+    width: 
+}
+
