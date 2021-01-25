@@ -11,6 +11,14 @@ body > header > h1{
     margin: 0;
 }
 
+header > nav > ul {
+    list-style: none;
+}
+
+body > header > nav > ul > li > a {
+    color: white;
+}
+
 body > footer {
     background-color: dodgerblue;
     text-align: center;
@@ -21,7 +29,16 @@ body > footer > h2 {
     margin:0;
 }
 
-body {
-    width: 
+form >textarea {
+    width: 100%;
 }
 
+body > aside {
+    width: 70%;
+    margin: auto;
+}
+
+body > main {
+    width: 70%;
+    margin: auto;
+}
